@@ -1,0 +1,31 @@
+table{
+	table-layout: fixed;
+	width: 100vw;
+	height: 100vh;
+	margin: 20px;
+	border-spacing: 10px;
+	
+	
+}
+.block1{
+	border: red 2px solid;
+	
+	
+}
+
+.block2{
+	border: yellow 2px solid;
+	
+}
+
+.block3, .block4, .block5{
+	width: 100px;
+	border: green 2px solid;
+	
+}
+
+
+.block6{
+	border: pink 2px solid;
+	
+}
